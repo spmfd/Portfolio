@@ -1,17 +1,23 @@
 import React from 'react';
+import './styles/style.css'
 
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+<main class="flex-container">
+
+<section class ="sidebar">
+    <h2>About Me</h2>
+</section>
+
+<aside class="main-content">
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis natus blanditiis maiores? Rerum tempore saepe in consequuntur molestias placeat, porro illo illum harum commodi, soluta magnam sint ducimus temporibus incidunt ut fugiat dignissimos tenetur, distinctio ipsa vero! Deserunt, ullam. Iste nisi placeat quis modi ab excepturi eaque vero ducimus, consequuntur voluptatum assumenda reprehenderit dignissimos. Deleniti voluptas facilis similique ipsum tempora.
+    </p>
+
+</aside>
+
+</main>
     </div>
   );
 }
