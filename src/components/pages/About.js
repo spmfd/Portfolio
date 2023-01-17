@@ -3,7 +3,7 @@ import './styles/style.css'
 
 export default function About() {
   return (
-    <div>
+    <div class="page">
 <main class="flex-container">
 
 <section class ="sidebar">

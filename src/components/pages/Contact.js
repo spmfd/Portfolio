@@ -3,7 +3,7 @@ import './styles/style.css'
 
 export default function Contact() {
   return (
-    <div>
+    <div class="page">
       <main class="flex-container">
 
         <section class ="sidebar">
@@ -12,13 +12,13 @@ export default function Contact() {
 
         <aside class="main-content">
             <form>
-            <div class="row">
+            <div class="row width">
             <p>Please Provide your name for reference</p>
             <div class="col">
-            <input type="text" class="form-control" placeholder="First name"></input>
+            <input type="text" class="form-control name" placeholder="First name"></input>
             </div>
             <div class="col">
-            <input type="text" class="form-control" placeholder="Last name"></input>
+            <input type="text" class="form-control name" placeholder="Last name"></input>
             </div>
             </div>
             <div class="form-group">
