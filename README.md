@@ -9,7 +9,7 @@ This is a remake of my first big project, making my portfolio. I was definitely 
 
 If you are not using the URL provided below, please make a copy of the repo to your drive. Open your terminal and run `npm i`. After installation is complete run `npm start`. At which point the site will open up using your localhost port 3000.
 
-[Click this link to open page](https://spmfd.github.io/Portfolio/)
+[Click this link to open page](https://charming-mousse-60f807.netlify.app/)
 
 ## Usage
 
