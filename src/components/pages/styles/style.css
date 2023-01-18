@@ -85,7 +85,7 @@ img {
 
 .card-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .links {
@@ -125,6 +125,14 @@ header {
 /* .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
   background: #52658F;
 } */
+
+@media screen and (max-width: 1025px) {
+.card-grid {
+  grid-template-columns: 1fr 1fr;
+}
+
+}
+
 @media screen and (max-width: 426px) {
   .card {
     width: 5rem;

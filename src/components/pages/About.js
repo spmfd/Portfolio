@@ -12,7 +12,10 @@ export default function About() {
 
 <aside class="main-content">
     <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis natus blanditiis maiores? Rerum tempore saepe in consequuntur molestias placeat, porro illo illum harum commodi, soluta magnam sint ducimus temporibus incidunt ut fugiat dignissimos tenetur, distinctio ipsa vero! Deserunt, ullam. Iste nisi placeat quis modi ab excepturi eaque vero ducimus, consequuntur voluptatum assumenda reprehenderit dignissimos. Deleniti voluptas facilis similique ipsum tempora.
+        Thank you for coming to my portfolio page! I appreciate your interest in my portfolio showcasing my various projects. Not only will they show my efficiency with coding, it serves as proof of my quick learning capabilities. I have been able to go from not knowing any coding to making this website in 6 months!
+      <br></br>
+      <br></br>
+       Prior to coding a majority of my experience is customer service and banking. I have been a lead to many different projects within the banking industry from AI automation, training, and creating a workflow for an entire department.
     </p>
 
 </aside>

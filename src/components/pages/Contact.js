@@ -27,7 +27,7 @@ return (
         </section>
 
         <aside class="main-content">
-            <form>
+            <form onSubmit={contactSubmit}>
             <div class="row width">
             <p>Please Provide your name for reference</p>
             <div class="col">
@@ -46,7 +46,7 @@ return (
               <textarea class="form-control" id="message" rows="3" value={message} onChange={(e) => setMessage(e.target.value)}></textarea>
             </div>
             <br></br>
-            <button type="submit" onSubmit={() => contactSubmit} class="btn btn-outline-warning">Submit</button>
+            <button type="submit" class="btn btn-outline-warning">Submit</button>
             </form>
         </aside>
     </main>
