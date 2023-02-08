@@ -39,8 +39,8 @@ export default function Portfolio() {
               <div class="centered">
               <div class="links" style={linksStyle}>
                 <h5 class="card-title">Full Stack Website</h5>
-                <a href="https://arcane-mesa-34792.herokuapp.com/" class="card-link" id="card-text">Cee Cee's Salon</a>
-                <a href="https://github.com/blu3bloodedcod3r/CeeCee-s_Salon" class="card-link" id="card-text">GitHub Repo</a>
+                <a href="https://projectsalon.herokuapp.com/" class="card-link" id="card-text">Cee Cee's Salon</a>
+                <a href="https://github.com/blu3bloodedcod3r/CCsSalon" class="card-link" id="card-text">GitHub Repo</a>
                 </div>
               </div>
               </div>
